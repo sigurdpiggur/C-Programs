@@ -32,7 +32,7 @@ int main(){
 
 		delete[] word;
 		word = nullptr;
-		cout << "0) Avslutt\n1) Tast nytt ord\n";//			Opprydning
+		cout << "0) Avslutt\n1) Tast nytt ord\n";//			Oppryddning
 		cin >> done;
 		cout << "\n\n";
 
